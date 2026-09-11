@@ -3,7 +3,7 @@
   "component": {
     "group": "com.pixl",
     "module": "facesearch",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -222,13 +222,13 @@
       ],
       "files": [
         {
-          "name": "facesearch-1.0.4.aar",
-          "url": "facesearch-1.0.4.aar",
-          "size": 7086661,
-          "sha512": "6f86588182f1890536d3401116a126d20be84fdc839faa782bed49f6b2e0045da7ebcf039fbf36f914eafc387f0d0e96ff7ee6cb37edb1690c0876ad2d55b3f7",
-          "sha256": "55fef2685baa8161f0c981353f64889a95ff02a669d841b9962bfd0bada144ac",
-          "sha1": "7b9fa2eeb458e9b984d2b65332e1a1ef8d667cf8",
-          "md5": "1834d4b3bb1abed622996e5349d0aa24"
+          "name": "facesearch-1.0.5.aar",
+          "url": "facesearch-1.0.5.aar",
+          "size": 7089277,
+          "sha512": "e153ccbf906c1dd65eca39b9f823fd8cb66b79930650aeff322d8277ecb982614fd8ea7b7aead1cc30872c2f496f527d6d09a0e8a08e858c8db98061e5332689",
+          "sha256": "59499c9ba0211f6f8bd616db7da1b2234e0f6ce3127c4d0b25475ab33d0a3a11",
+          "sha1": "44bba8a2cefb0a8fdcc6e8170ef1fb3d3d2dcacb",
+          "md5": "29f02736c4430110f8810dfc49111a0f"
         }
       ]
     },
@@ -440,13 +440,13 @@
       ],
       "files": [
         {
-          "name": "facesearch-1.0.4.aar",
-          "url": "facesearch-1.0.4.aar",
-          "size": 7086661,
-          "sha512": "6f86588182f1890536d3401116a126d20be84fdc839faa782bed49f6b2e0045da7ebcf039fbf36f914eafc387f0d0e96ff7ee6cb37edb1690c0876ad2d55b3f7",
-          "sha256": "55fef2685baa8161f0c981353f64889a95ff02a669d841b9962bfd0bada144ac",
-          "sha1": "7b9fa2eeb458e9b984d2b65332e1a1ef8d667cf8",
-          "md5": "1834d4b3bb1abed622996e5349d0aa24"
+          "name": "facesearch-1.0.5.aar",
+          "url": "facesearch-1.0.5.aar",
+          "size": 7089277,
+          "sha512": "e153ccbf906c1dd65eca39b9f823fd8cb66b79930650aeff322d8277ecb982614fd8ea7b7aead1cc30872c2f496f527d6d09a0e8a08e858c8db98061e5332689",
+          "sha256": "59499c9ba0211f6f8bd616db7da1b2234e0f6ce3127c4d0b25475ab33d0a3a11",
+          "sha1": "44bba8a2cefb0a8fdcc6e8170ef1fb3d3d2dcacb",
+          "md5": "29f02736c4430110f8810dfc49111a0f"
         }
       ]
     },
@@ -463,13 +463,13 @@
       },
       "files": [
         {
-          "name": "facesearch-1.0.4-sources.jar",
-          "url": "facesearch-1.0.4-sources.jar",
-          "size": 105465,
-          "sha512": "e88bfda498f9f4af9886908055e6f4de5946aec3859e544b4a4541ff47a2a7a507a14e2a1a6cc0687481385f2c5b5ad041a2ca76acd82daa844c91348e57d8ef",
-          "sha256": "15947ea485d84e345013cc660e503c273de978c0c013dd6c7bf696b3652f48dd",
-          "sha1": "7c7b607ed2314a17b09657a4b983f209bb960bf7",
-          "md5": "ec84740196a7c5137b5ce15295d6700e"
+          "name": "facesearch-1.0.5-sources.jar",
+          "url": "facesearch-1.0.5-sources.jar",
+          "size": 105697,
+          "sha512": "ce826743ffac6cd05ce73f3786fb583d00a80db5d61854cdc088b5546e537e994b2e48de9dccd056b32af3ff0cbcd2cd360a831b3602d9e712b4503515dda77b",
+          "sha256": "fc53d150b3374462d9dfa67dca0c7be8625807ba2a8d16384660713d2c72569c",
+          "sha1": "64179a359063d3ba9bb1474fb01589b37f5f24d0",
+          "md5": "a6719f0b99271fb8407ec1e99081c133"
         }
       ]
     }
